@@ -11,10 +11,10 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'CS484 - Secure Web Application Development',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'UIC Logo',
+        src: 'img/uic_logo_blk.PNG',
       },
       items: [
         {
