@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Syllabus
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
 
-Get started by **creating a new site**.
+## Logistics
+
+Course Name: 
 
 Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
 
