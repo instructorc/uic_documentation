@@ -2,7 +2,7 @@
 module.exports = {
   title: 'CS484 Secure Web Application Development',
   tagline: 'Fall 2021',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://cs-uic.pages.dev/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/instructorc/uic_documentation',
           label: 'GitHub',
           position: 'right',
         },
@@ -67,7 +67,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()}`,
     },
   },
   presets: [
@@ -78,13 +78,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/instructorc/uic_documentation',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/instructorc/uic_documentation',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

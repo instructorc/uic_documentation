@@ -3,10 +3,7 @@
 + sidebar_position: 3
 + ---
 
-# Hello
+# Resources
 
 This is my **first Docusaurus document**!
 
-# Hello
-
-This is my **first Docusaurus document**!

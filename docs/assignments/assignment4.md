@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Assignment 4
+# Final Project (Assign. 4)
 
 Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
 
