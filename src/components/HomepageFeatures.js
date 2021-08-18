@@ -69,7 +69,7 @@ function Feature({Svg, title, description}) {
   );
 }
 
-export default function HomepageFeatures() {
+function HomepageFeaturesDONOTUSE() {
   return (
     <section className={styles.features}>
       <div className="container">
@@ -79,6 +79,17 @@ export default function HomepageFeatures() {
           ))}
         </div>
       </div>
+    </section>
+  );
+}
+
+export default function HomepageFeatures() {
+  return (
+    <section>
+      <ul>
+        <li>Version Control -</li>
+        <li>HTML,CSS, JS Overview -</li>
+      </ul>
     </section>
   );
 }

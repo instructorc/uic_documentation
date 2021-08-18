@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'CS484 Secure Web Application Development',
+  title: 'Instructor Fulton Course site',
   tagline: 'Fall 2021',
   url: 'https://cs-uic.pages.dev/',
   baseUrl: '/',
@@ -19,7 +19,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'syllabus',
           position: 'left',
           label: 'Syllabus',
         },
@@ -39,7 +39,7 @@ module.exports = {
           items: [
             {
               label: 'Syllabus',
-              to: '/docs/intro',
+              to: '/docs/syllabus',
             },
           ],
         },
