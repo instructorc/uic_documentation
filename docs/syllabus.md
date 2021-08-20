@@ -13,8 +13,9 @@ Course: CS484 Secure Web Applications
 Lectures: MWF 2pm - 3pm Room: Burnham Hall 209  
 Prerequisite/Corequisite: CS341 Programming Language Design and Implementation  
 Piazza Online Forum: piazza.com/uic/fall2021/cs484  
-Lecturer: Chris Fulton cifulton@uic.edu  
-Office Hours: MW 11am - 12:30pm  
+Lecturer: Chris Fulton cifulton@uic.edu  ** *Post all course related questions to Piazza**  
+Office Hours: MW 11:30am - 12:30pm 
+Office Location: 923 SEO 
 
 ## Course Description
 
@@ -27,24 +28,27 @@ This course integrates the concepts that underlie designing, deploying, attackin
 This class will teach students the concepts and techniques that enable web applications to maintain high performance in the face of numerous users and attackers. Students will learn and be able to apply software engineering concepts to manage the complexity of client‐side and server‐side software. Students will learn and be able to apply computer systems concepts to manage the scalability of the web application, and provide performant service to large numbers of simultaneous users. Students will learn and be able to apply computer security concepts to designing a web application which is robust to known and unknown attacks. Students will gain familiarity and facility with modern tools which enable creating applications that apply the aforementioned design, performance, and security concepts. Students will learn and be able to apply fundamental security concepts so that they can evaluate the security of future application designs in the face of potential future attacks.
 
 ### Languages and Frameworks:
- - Version Control (Git and GitHub)
- - Node.js
- - Express.js
+ - Node.js, Express.js Framework, Handlebars.js templating
  - HTML, CSS, JS  *Brief overview of Component-based Frameworks - React
  - JSON
  - SQL, SQLite Database
- - Handlebars.js
 
 ### Topics Covered
  - Authorization and Authentication
  - Page Layout
- - XSS, C
+ - XSS, CORS
  - Paramaterized Queries
  - Session Hijacking
  - SEO
  - DDOS Attack
+ - Passport.js
  - SQL Injection
- - 
+ - Sessions, Cookies, Tokens
+ - Http/Https, TLS/SSL, Public/Private Key Exchange Algorithms
+ - Http Headers
+ - Version Control (Git and GitHub)
+ - CI/CD pipelines
+ - Containers (Docker)
 
 ## Discussion and Forum
 
@@ -85,22 +89,22 @@ Find our class signup link at: https://piazza.com/uic/fall2021/cs484
 
 | Week | Monday      | Wednesday   | Friday        |
 | :--- | :----:      |    :----:   |          :----: |
-|1     | **Aug. 23rd** <br /> **Topic:** Syllabus Review, Pre-Assessment, Survey     | **Aug. 25th** <br /> **Topic: **  Web App Overview (Web Architecture)   | **Aug. 27th** <br /> **Topic:** Threat Modeling (Various Models, DFD's) <br /> **Reading:** [OWASP Threat Modeling Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)  |
-|2     | **Aug. 30th** <br /> **Topic** Version Control - Git  | **Sept. 1st** <br /> **Topic:**  Version Control - GitHub     | **Sept. 3rd** <br />  Version Control - Resources    |
-|3     | **Sept. 6th** <br /> **No Lecture - Labor Day** <br />   | **Sept. 8th** <br /> HTML/CSS/JS Overview   | **Sept. 10th** <br /> **Topic:**  HTML/CSS/JS Page Layout     |
-|4     | **Sept. 13th** <br />  | **Sept. 15th** <br />     | **Sept. 17th** <br />     |
-|5     | **Sept. 20th** <br />  | **Sept. 22nd** <br />     | **Sept. 24th** <br />     |
-|6     | **Sept. 27th** <br />  | **Sept. 29th** <br />     | **Oct. 1st** <br />     |
-|7     | **Oct. 4th** <br />  | **Oct. 6th** <br />     | **Oct. 8th** <br />     |
-|8     | **Oct. 11th** <br />  | **Oct. 13th** <br />     | **Oct. 15th** <br />     |
-|9     | **Oct. 18th** <br />  | **Oct. 20th** <br />     | **Oct. 22nd** <br />     |
-|10    | **Oct. 25th** <br />  | **Oct. 27th** <br />     | **Oct. 29th** <br />     |
-|11    | **Nov. 1st** <br />  | **Nov. 3rd** <br />     | **Nov. 5th** <br />     |
-|12    | **Nov. 8th** <br />  | **Nov. 10th** <br />     | **Nov. 12th** <br />     |
-|13    | **Nov. 15th** <br />  | **Nov. 17th** <br />     | **Nov. 19th** <br />     |
-|14    | **Nov. 22th** <br />  | **Nov. 24th** <br />     | **Nov. 26th** <br />     |
-|15    | **Nov. 29th** <br />  | **Dec. 1st** <br />     | **Dec. 3rd** <br />     |
-|16    | Paragraph   | Text        | And more      |
+|1     | **Aug. 23rd** <br /> **Topic:** Syllabus Review, Pre-Assessment, Survey   | **Aug. 25th** <br /> **Topic:**  Web App Overview (Web Architecture), Final Project Review   | **Aug. 27th** <br /> **Topic:** Threat Modeling (Various Models, DFD's) <br /> **Reading:** [OWASP Threat Modeling Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)  |
+|2     | **Aug. 30th** <br /> **Topic** Version Control - Git  | **Sept. 1st** <br /> **Topic:**  Version Control - GitHub     | **Sept. 3rd** <br />  Version Control - Resources <br /> Release: Assignment 1   |
+|3     | **Sept. 6th** <br /> **No Lecture - Labor Day** <br />   | **Sept. 8th** <br /> HTML/CSS/JS Overview   | **Sept. 10th** <br /> **Topic:**  **Working Groups** <br />  **Due:** Quiz 1 (Weeks 1 - 2 Material) |
+|4     | **Sept. 13th** <br /> HTML/CSS/JS Page Layout    | **Sept. 15th** <br />  **Topic:** HTML/CSS/JS Responsive Design  | **Sept. 17th** <br /> **Topic:** Client-side JS - XSS Attacks (Pre-recorded Lecture)  |
+|5     | **Sept. 20th** <br /> **Topic:** Node.js Overview  | **Sept. 22nd** <br /> **Topic** Core Modules Http/Https, TLS/SSL  | **Sept. 24th** <br /> **Topic:** Understanding NPM <br /> **Due:** Assignment 1  |
+|6     | **Sept. 27th** <br /> **Topic:** Routing, Express, HTTP Verbs  | **Sept. 29th** <br /> **Topic:** Authentication and Authorization  | **Oct. 1st** <br /> **Topic:** Sessions, Cookies and Tokens <br /> **Reading:** [Using HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) <br /> **Released:** Assignment 2 |
+|7     | **Oct. 4th** <br /> **Topic:** App Testing - Unit Testing   | **Oct. 6th** <br /> **Topic:** CI, Automation   | **Oct. 8th** <br /> **Topic:** **Working Groups** <br /> Quiz 2 (3 - 7 Material) |
+|8     | **Oct. 11th** <br /> **Topic:** Working with Data + Data Modeling (JSON, Tables)   | **Oct. 13th** <br /> **Topic:** RDMS/NoSQL, ERD Diagrams    | **Oct. 15th** <br /> **Topic:** SQL(DDL/DML) |
+|9     | **Oct. 18th** <br /> **Topic:** Database Querying | **Oct. 20th** <br /> **Topic:** Node.js + SQLite     | **Oct. 22nd** <br /> **Topic:** Parameterized Queries, SQL Injection    |
+|10    | **Oct. 25th** <br /> **Topic:** Understanding RESTFul API | **Oct. 27th** <br /> **Topic:** RESTFul API Tools and Security  | **Oct. 29th** <br /> **Topic:** Http Headers   |
+|11    | **Nov. 1st** <br /> **Topic:** Brief Overview of React | **Nov. 3rd** <br /> **Topic:** Review of React Cont.   | **Nov. 5th** <br /> **Working Groups** <br /> Quiz 3 (8 -10 Material)   |
+|12    | **Nov. 8th** <br /> **Topic:** Understanding Docker  | **Nov. 10th** <br /> **Topic:** Dockerfile, Docker Images     | **Nov. 12th** <br /> **Topic:** Image Repository, Deploying Containers    |
+|13    | **Nov. 15th** <br /> **Topic:** Understanding Kubernetes <br /> **Review:** [Kubernetes Essentials from Google Cloud](https://www.youtube.com/watch?v=_2fiMli8p3E&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)    | **Nov. 17th** <br /> **Topic:** Scaling and Cloud Vendors     | **Nov. 19th** <br /> **Topic:** CD, GitHub Actions    |
+|14    | **Nov. 22th** <br /> Usability and Performance | **Nov. 24th** <br /> **Working Teams** <br /> Quiz 4(12 -14)  | **Nov. 26th** <br /> **NO CLASS**    |
+|15    | **Nov. 29th** <br /> OWASP, Bug Bounty Programs  | **Dec. 1st** <br /> Presentations     | **Dec. 3rd** <br />  Presentations   |
+|16    | **Dec. 6th** <br /> **NO CLASS**  | **Dec. 8th** <br /> **FINAL EXAM**   | **Dec. 10th** <br />  **NO CLASS**   |
 
 ## Formative Assessment
 
