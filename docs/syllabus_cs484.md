@@ -23,8 +23,8 @@ Office Location: 923 SEO
 ## Learner Supplies
 Laptop is required for each class session
 
-## Course delivery Format 
-Our class sessions will be held in-person.  Our sessions are scheduled to be recorded and livestreamed to allow for a small measure of flexibility for those who might not be able to make it to a session for various reasons. The expectation is that you would be able to attend the majority if not all class sessions.  The Final Exam and quizzes will be delivered in-person.  There will be a few Friday sessions that will be delivered asynchronously.
+## Course Delivery Format 
+Our class sessions will be held in-person.  Our sessions are scheduled to be recorded and livestreamed to allow for a small measure of flexibility for those who might not be able to make it to a session for various reasons.  The expectation is that you would be able to attend the majority if not all class sessions.  All quizzes and exams will be administered n-person unless noted otherwise. There will be a few Friday sessions that will be delivered asynchronously.
 
 ## Course Description
 
