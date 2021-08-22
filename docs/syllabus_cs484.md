@@ -15,7 +15,14 @@ Prerequisite/Corequisite: CS341 Programming Language Design and Implementation
 Piazza Online Forum: piazza.com/uic/fall2021/cs484  ** *Post all course related questions to Piazza**   
 Lecturer: Chris Fulton cifulton@uic.edu   
 Office Hours: MW 11:30am - 12:30pm *Shoot me an email to notify me that you plan to stop by  
-Office Location: 923 SEO 
+Office Location: 923 SEO  
+
+## Textbook
+(Required) WASEC: Web Application Security for the everyday software engineer: Everything a web developer should know about application security: concise, condensed and made to last.  Author: Alessandro Nadalin ISBN: 978-1670062444
+
+## Learner Supplies
+Laptop is required for each class session
+
 
 ## Course Description
 
