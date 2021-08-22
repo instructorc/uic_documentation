@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
+import AccordionExampleFluid from '../components/Accordian';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -19,15 +20,18 @@ function HomepageHeader() {
   );
 }
 
+
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
+      description="Professor Fulton UIC Course Site">
+      {/*<HomepageHeader />*/}
       <main>
-        <HomepageFeatures />
+          <h1>Professor Fulton Fall 2021 Info.  TBA</h1>
+        {/*<HomepageFeatures />*/}
       </main>
     </Layout>
   );

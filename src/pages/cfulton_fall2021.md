@@ -1,7 +1,7 @@
 ---
-title: Markdown page example
+title: Chris Fulton Fall Info.
 ---
 
-# Markdown page example
+# Christopher Fulton 
 
 You don't need React to write simple standalone pages.

@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Instructor Fulton Course site',
+  title: 'Professor Fulton Course site',
   tagline: 'Fall 2021',
   url: 'https://cs-uic.pages.dev/',
   baseUrl: '/',
@@ -11,30 +11,30 @@ module.exports = {
   projectName: 'UIC CS484 Course site', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'CS484 - Secure Web Application Development',
+      /*title: 'CS484 - Secure Web Application Development',*/
       logo: {
         alt: 'UIC Logo',
         src: 'img/uic_logo_blk.PNG',
       },
       items: [
-        {
+        /*{
           type: 'doc',
           docId: 'syllabus',
           position: 'left',
-          label: 'Syllabus',
+          label: 'Syllabus - CS484',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/resource', label: 'Resource', position: 'left'},
         {
           href: 'https://github.com/instructorc/uic_documentation',
           label: 'GitHub',
           position: 'right',
-        },
+        },*/
       ],
     },
     footer: {
       style: 'dark',
       links: [
-        {
+        /**{
           title: 'Docs',
           items: [
             {
@@ -65,7 +65,7 @@ module.exports = {
               href: 'https://github.com/facebook/docusaurus',
             },
           ],
-        },
+        },**/
       ],
       copyright: `Copyright © ${new Date().getFullYear()}`,
     },

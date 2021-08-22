@@ -12,5 +12,5 @@ You will find helpful post related to the material in this class.  I will also p
 
 I'll do my best to accurately tag material so that you can narrow in on specific content and topics. 
 
-With Grace, 
+
 -CF
