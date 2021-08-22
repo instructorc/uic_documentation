@@ -9,7 +9,7 @@ sidebar_position: 1
 
 ## Logistics
 
-Course: CS484 Secure Web Applications  
+Course: CS484 Secure Web Application Development  
 Lectures: MWF 2pm - 3pm Room: Burnham Hall 209  
 Prerequisite/Corequisite: CS341 Programming Language Design and Implementation  
 Piazza Online Forum: piazza.com/uic/fall2021/cs484  ** *Post all course related questions to Piazza**   
@@ -23,6 +23,8 @@ Office Location: 923 SEO
 ## Learner Supplies
 Laptop is required for each class session
 
+## Course delivery Format 
+Our class sessions will be held in-person.  Our sessions are scheduled to be recorded and livestreamed to allow for a small measure of flexibility for those who might not be able to make it to a session for various reasons. The expectation is that you would be able to attend the majority if not all class sessions.  The Final Exam and quizzes will be delivered in-person.  There will be a few Friday sessions that will be delivered asynchronously.
 
 ## Course Description
 
@@ -59,7 +61,7 @@ This class will teach students the concepts and techniques that enable web appli
 
 ## Succeeding in this Class
 As the instructor, my job in class is to organize the material coherently, give helpful lectures, provide a framework that combines enough challenge and support for success, and grade reasonably. A reasonable academic expectation is that you spend 2 hours outside of class for every hour spent in class. For a few of your  assignments you may go over this time estimate.
-- Complete the assigned reading prior to each class session.  
+- Complete the assigned reading and review material prior to each class session.  
 - Take notes during lecture
 - Utilize your Working Team's Expertise
 
