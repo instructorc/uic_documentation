@@ -12,9 +12,9 @@ sidebar_position: 1
 Course: CS484 Secure Web Applications  
 Lectures: MWF 2pm - 3pm Room: Burnham Hall 209  
 Prerequisite/Corequisite: CS341 Programming Language Design and Implementation  
-Piazza Online Forum: piazza.com/uic/fall2021/cs484  
-Lecturer: Chris Fulton cifulton@uic.edu  ** *Post all course related questions to Piazza**  
-Office Hours: MW 11:30am - 12:30pm 
+Piazza Online Forum: piazza.com/uic/fall2021/cs484  ** *Post all course related questions to Piazza**   
+Lecturer: Chris Fulton cifulton@uic.edu   
+Office Hours: MW 11:30am - 12:30pm *Shoot me an email to notify me that you plan to stop by  
 Office Location: 923 SEO 
 
 ## Course Description
@@ -23,7 +23,7 @@ Web applications integrate concepts from software engineering, systems programmi
 
 ## Course Overview
 
-This course integrates the concepts that underlie designing, deploying, attacking, and defending web applications to provide students with a foundational understanding of how to design and deploy scalable and secure web applications.
+This course integrates the concepts that underlie designing, deploying, and defending web applications to provide students with a foundational understanding of how to design and deploy scalable and secure web applications.
 
 This class will teach students the concepts and techniques that enable web applications to maintain high performance in the face of numerous users and attackers. Students will learn and be able to apply software engineering concepts to manage the complexity of client‐side and server‐side software. Students will learn and be able to apply computer systems concepts to manage the scalability of the web application, and provide performant service to large numbers of simultaneous users. Students will learn and be able to apply computer security concepts to designing a web application which is robust to known and unknown attacks. Students will gain familiarity and facility with modern tools which enable creating applications that apply the aforementioned design, performance, and security concepts. Students will learn and be able to apply fundamental security concepts so that they can evaluate the security of future application designs in the face of potential future attacks.
 
@@ -50,9 +50,16 @@ This class will teach students the concepts and techniques that enable web appli
  - CI/CD pipelines
  - Containers (Docker)
 
+## Succeeding in this Class
+As the instructor, my job in class is to organize the material coherently, give helpful lectures, provide a framework that combines enough challenge and support for success, and grade reasonably. A reasonable academic expectation is that you spend 2 hours outside of class for every hour spent in class. For a few of your  assignments you may go over this time estimate.
+- Complete the assigned reading prior to each class session.  
+- Take notes during lecture
+- Utilize your Working Team's Expertise
+
+
 ## Discussion and Forum
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
 
 Find our class signup link at: https://piazza.com/uic/fall2021/cs484
 
@@ -102,7 +109,7 @@ Find our class signup link at: https://piazza.com/uic/fall2021/cs484
 |11    | **Nov. 1st** <br /> **Topic:** Brief Overview of React | **Nov. 3rd** <br /> **Topic:** Review of React Cont.   | **Nov. 5th** <br /> **Working Groups** <br /> Quiz 3 (8 -10 Material)   |
 |12    | **Nov. 8th** <br /> **Topic:** Understanding Docker  | **Nov. 10th** <br /> **Topic:** Dockerfile, Docker Images     | **Nov. 12th** <br /> **Topic:** Image Repository, Deploying Containers  <br /> **Due @ 11:59pm:** Assignment 3 |
 |13    | **Nov. 15th** <br /> **Topic:** Understanding Kubernetes <br /> **Review:** [Kubernetes Essentials from Google Cloud](https://www.youtube.com/watch?v=_2fiMli8p3E&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)    | **Nov. 17th** <br /> **Topic:** Scaling and Cloud Vendors     | **Nov. 19th** <br /> **Topic:** CD, GitHub Actions <br /> **Released:** Final Project (Assignment 4)  |
-|14    | **Nov. 22th** <br /> Usability and Performance | **Nov. 24th** <br /> **Working Teams** <br /> Quiz 4(12 -14)  | **Nov. 26th** <br /> **NO CLASS**    |
+|14    | **Nov. 22th** <br /> Usability and Performance | **Nov. 24th** <br /> **Working Teams** <br /> Quiz 4(11 -14)  | **Nov. 26th** <br /> **NO CLASS**    |
 |15    | **Nov. 29th** <br /> OWASP, Bug Bounty Programs  | **Dec. 1st** <br /> Presentations     | **Dec. 3rd** <br />  Presentations <br /> **Due @ 11:59pm:** Final Project (Assignment 4)  |
 |16    | **Dec. 6th** <br /> **NO CLASS**  | **Dec. 8th** <br /> **FINAL EXAM**   | **Dec. 10th** <br />  **NO CLASS**   |
 
@@ -133,6 +140,11 @@ Face Masks: Masks covering both the mouth and nose must be worn at all times by 
 My expectation is what is given on the [FAQ Covid page](https://today.uic.edu/frequently-asked-questions), where the latest "Circle Back to Campus" newsletter is from.  My understanding is that we will all be vaccinated (or be tested regularly), meet masked and in person in our classroom, without extra physical distancing.  Of course this could all change!  Should there be the need to go back to online only, our plan is to have synchronous class online using Zoom. 
 We will make every effort to have all classes recorded so those who need to can watch a class recording asynchronously if needed for Covid reasons.    Email me if you know you will need to attend class remotely because of Covid, and we can figure out a reasonable adjustment.  This does not apply to you if you simply miss class and watch the recording remotely some day(s), or miss lab for non-Covid reasons.
 We have selected the streaming option for class recordings.  While I haven't tried this before, it is myunderstanding that you should be able to watch the class live, remotely, by selecting the option under the Echo360 link on the course Blackboard page (see link to Blackboard in the Navigation bar).
+
+
+## Disability Services, Letters of Accommodation (LOA)
+Refer as needed to the [UIC campus disability services policy](https://registrar.uic.edu/campus-policies/disability-notification/) which applies to students in this class. If you have special circumstances such as a letter of accommodation (LOA) from the UIC Disability office, then please indicate this to me directly via email along with a copy of your letter, and remind me before each exam of any accommodations needed.
+
 
 ## Disclaimer
 This syllabus is subject to change at the instructor's discretion with prior student notification.
