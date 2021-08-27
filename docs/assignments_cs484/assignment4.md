@@ -6,7 +6,7 @@ sidebar_position: 4
 Tentative Write-up
 
 ## Introduction
-You will create a full-stack web application on a topic of your choice. The application will primarily be used to enform the public of useful information.  The data you display should be resourced from an external RESTFul API.  The choice of RESTFul API and site topic will be agreed upon by your team.  Your application will need to welcome the end-user to the application and present information on why the data is useful and how the end-user can use the data.  At the conclusion of the project, you will present the application to your peers.  During this presentation, you will elaborate on the mission of the site, team roles, goals, and provide a walk through of coding conventions used to complete front and back end functionality.
+You will create a full-stack web application on a topic of your choice. The application will primarily be used to inform the public of useful information.  The data you display should be resourced from an external RESTFul API.  The choice of RESTFul API and site topic will be agreed upon by your team.  Your application will need to welcome the end-user to the application and present information on why the data is useful and how the end-user can use the data.  At the conclusion of the project, you will present the application to your peers.  During this presentation, you will elaborate on the mission of the site, team roles, goals, and provide a walk through of coding conventions used to complete front and back end functionality.
 
 ## Back-end Features
 For the back-end features, you will work with your team to complete a web application that implements 4 features below . 
