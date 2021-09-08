@@ -9,13 +9,13 @@
 |7     |Christina W.  |Diyin H.  |Fahad A.  |
 |8     |Will C.   |Stas K.   |Farooq S.  |
 |9     |Hector C.  |Jonathan C.   |Bryan E.  |
-|10     |Marko G.  |Rahul G.  |Naman J.  |
+|10     |  |Rahul G.  | |
 |11     |Sanchita K.  |Gurleen K.   |Yusuf K.  |
-|12     |Jan K.   |Yash M.  |Tru N.   |
-|13     |Luis N.  |Umer Q.  |   |
+|12     |Jan K.   | |  |
+|13     |Tru N.  |Umer Q.  |Marko G.   |
 |14     |Kevin R.   |Chris R. |Jujhar S.   |
-|15     |Asif G.   | Zainab M.  |   |
-|16     |Mohammed M.   |Sai M.   |   |
+|15     |Asif G.   | Zainab M.  | Sai M.   |
+|16     |Mohammed M.   |  |   |
 |17     |Monisha S.   |Yashwanth T.   |Will B.   |
 |18     |Tejas R.   |Akshat W.  | Olatunji B.  |
 |19     |Yinan S. |   |   |
@@ -30,4 +30,4 @@
 |28     |Riccardo N.   |   |   |
 |29     |Haley O.   |   |   |
 |30     |Ronak T.   |   |   |
-|31     |Afnan W.   |   |   |
+|31     |Afnan W.   | Yash M.   | Naman J.   |
