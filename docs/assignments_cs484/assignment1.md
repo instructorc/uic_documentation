@@ -42,7 +42,7 @@ Your project should be submitted via the GitHub Repository issued to you by the 
 
 For Assignment 1, your site should be hosted via GitHub Pages.
 
-### Repository Link: Forthcoming once groups are confirmed
+### GitHub Repository Invitation Link - [https://classroom.github.com/g/koLQf4fs](https://classroom.github.com/g/koLQf4fs) 
 
 
 
