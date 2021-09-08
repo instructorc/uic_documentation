@@ -1,4 +1,4 @@
-# Fall 2021 
+# Lectures Fall 21 
 
 ## Week 1
  - [First Day Lecture](https://instructorc.github.io/uic_course_app/presentations/firstday.html)
@@ -7,4 +7,9 @@
 
  ## Week 2
  - [Git + GitHub Lecture](https://instructorc.github.io/site/slides/webtools/git.html)
+
+ ## Week 3
+ - [HTML Overview](https://instructorc.github.io/site/slides/webdev/html5.html)
+ - [CSS Overview](https://instructorc.github.io/site/slides/webdev/css.html)
+ 
  
