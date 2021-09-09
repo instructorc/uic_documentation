@@ -30,4 +30,5 @@
 |28     |Riccardo N.   |   |   |
 |29     |Haley O.   |   |   |
 |30     |Ronak T.   |   |   |
-|31     |Afnan W.   | Yash M.   | Naman J.   |
+|31     |Luis N.    |   |   |
+|32     |Afnan W.   | Yash M.   | Naman J.   |
