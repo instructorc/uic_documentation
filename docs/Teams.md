@@ -32,4 +32,4 @@
 |30     |Ronak T.   |   |   |
 |31     |Luis N.    |   |   |
 |32     |Yosuf K.   |   |   |
-|32     |Afnan W.   | Yash M.   | Naman J.   |
+|33     |Afnan W.   | Yash M.   | Naman J.   |
