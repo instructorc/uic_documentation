@@ -10,12 +10,12 @@
 |8     |Will C.   |Stas K.   |Farooq S.  |
 |9     |Hector C.  |Jonathan C.   |Bryan E.  |
 |10     |  |Rahul G.  | |
-|11     |Sanchita K.  |Gurleen K.   |    |
+|11     |Sanchita K.  |Gurleen K.   | Mohammed M.  |
 |12     |Jan K.   | |  |
 |13     |Tru N.  |Umer Q.  |Marko G.   |
 |14     |Kevin R.   |Chris R. |Jujhar S.   |
 |15     |Asif G.   | Zainab M.  | Sai M.   |
-|16     |Mohammed M.   |  |   |
+|16     |  |  |   |
 |17     |Monisha S.   |Yashwanth T.   |Will B.   |
 |18     |Tejas R.   |Akshat W.  | Olatunji B.  |
 |19     |Yinan S. |   |   |
@@ -31,5 +31,5 @@
 |29     |Haley O.   |   |   |
 |30     |Ronak T.   |   |   |
 |31     |Luis N.    |   |   |
-|32     |Yosuf K.   |   |   |
+|32     |Yusuf K.   |   |   |
 |33     |Afnan W.   | Yash M.   | Naman J.   |
