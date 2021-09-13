@@ -13,4 +13,7 @@
     - [HTML Overview](https://instructorc.github.io/site/slides/webdev/html5.html)
     - [CSS Overview](https://instructorc.github.io/site/slides/webdev/css.html)
  
- 
+ ## Week 4
+ - [Page Layout](https://instructorc.github.io/site/slides/webdev/layout.html)
+ - [Responsive Design](https://instructorc.github.io/site/slides/webdev/responsive.html)
+ - Understanding CSP + XSS Attack Mitigation - Forthcoming

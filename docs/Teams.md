@@ -9,8 +9,8 @@
 |7     |Christina W.  |Diyin H.  |Fahad A.  |
 |8     |Will C.   |Stas K.   |Farooq S.  |
 |9     |Hector C.  |Jonathan C.   |Bryan E.  |
-|10     |  |Rahul G.  | |
-|11     |Sanchita K.  |Gurleen K.   | Mohammed M.  |
+|10     |Rahul G.   | | |
+|11     |Sanchita K.  |Gurleen K.   |   |
 |12     |Jan K.   | |  |
 |13     |Tru N.  |Umer Q.  |Marko G.   |
 |14     |Kevin R.   |Chris R. |Jujhar S.   |
@@ -31,5 +31,5 @@
 |29     |Haley O.   |   |   |
 |30     |Ronak T.   |   |   |
 |31     |Luis N.    |   |   |
-|32     |Yusuf K.   |   |   |
+|32     |Yusuf K.   | Aman Yousuf Mohammed   |   |
 |33     |Afnan W.   | Yash M.   | Naman J.   |

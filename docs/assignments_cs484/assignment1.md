@@ -4,6 +4,7 @@ sidebar_position: 1
 
 # Assignment 1
 # Overview
+## Due Sept. 24th prior to 11:59pm.
 
 Assignment 1 is a project proposal and will need to be coded as a basic HTML page using semantic HTML5 tags. The one-page proposal will implement each of the first 2 requirements. Requirement 3 and 4 provide instructions on how you will document, submit and publish your work.
 
