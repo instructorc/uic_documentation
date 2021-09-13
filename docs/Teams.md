@@ -31,5 +31,5 @@
 |29     |Haley O.   |   |   |
 |30     |Ronak T.   |   |   |
 |31     |Luis N.    |   |   |
-|32     |Yusuf K.   | Aman Yousuf Mohammed   |   |
+|32     |Yusuf K.   | Aman Yousuf Mohammed  |   |
 |33     |Afnan W.   | Yash M.   | Naman J.   |
