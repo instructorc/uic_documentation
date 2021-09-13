@@ -14,7 +14,7 @@
     - [CSS Overview](https://instructorc.github.io/site/slides/webdev/css.html)
  
  ## Week 4
- - [Client-side languages Overview cont.](https://instructorc.github.io/uic_course_app/cs484/client_side.html)
+ - [Client-side languages Overview cont.](https://instructorc.github.io/uic_course_app/cs484/client_side2.html)
    - [Page Layout](https://instructorc.github.io/site/slides/webdev/layout.html)
    - [Responsive Design](https://instructorc.github.io/site/slides/webdev/responsive.html)
    - Understanding CSP + XSS Attack Mitigation - Forthcoming
