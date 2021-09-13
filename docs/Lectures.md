@@ -1,5 +1,5 @@
 # Lectures Fall 21 
-
+### Class Example Repository: [https://github.com/instructorc/cs484_fall2021ex](https://github.com/instructorc/cs484_fall2021ex)
 ## Week 1
  - [First Day Lecture](https://instructorc.github.io/uic_course_app/presentations/firstday.html)
  - [Web Architecture](https://instructorc.github.io/uic_course_app/cs484/web_arch.html)
@@ -14,6 +14,7 @@
     - [CSS Overview](https://instructorc.github.io/site/slides/webdev/css.html)
  
  ## Week 4
- - [Page Layout](https://instructorc.github.io/site/slides/webdev/layout.html)
- - [Responsive Design](https://instructorc.github.io/site/slides/webdev/responsive.html)
- - Understanding CSP + XSS Attack Mitigation - Forthcoming
+ - [Client-side languages Overview cont.](https://instructorc.github.io/uic_course_app/cs484/client_side.html)
+   - [Page Layout](https://instructorc.github.io/site/slides/webdev/layout.html)
+   - [Responsive Design](https://instructorc.github.io/site/slides/webdev/responsive.html)
+   - Understanding CSP + XSS Attack Mitigation - Forthcoming
