@@ -18,4 +18,4 @@
    - [Page Layout](https://instructorc.github.io/site/slides/webdev/layout.html)
    - [Responsive Design](https://instructorc.github.io/site/slides/webdev/responsive.html)
    - [Understanding CSP + XSS Attack Mitigation](https://instructorc.github.io/uic_course_app/cs484/xss_csp.html)
-      -Lecture Video: Forthcoming
+      -Lecture Video: [Part I of XSS Attacks](https://www.youtube.com/watch?v=wSg86al1APQ)
