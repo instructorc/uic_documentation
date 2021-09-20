@@ -17,5 +17,8 @@
 - [Client-side languages Overview cont.](https://instructorc.github.io/uic_course_app/cs484/client_side2.html)
    - [Page Layout](https://instructorc.github.io/site/slides/webdev/layout.html)
    - [Responsive Design](https://instructorc.github.io/site/slides/webdev/responsive.html)
-   - [Understanding CSP + XSS Attack Mitigation](https://instructorc.github.io/uic_course_app/cs484/xss_csp.html)
+   - [Understanding CSP + XSS Attack Mitigation](https://instructorc.github.io/uic_course_app/cs484/xss_csp.html) <br />
       -Lecture Video: [Part I of XSS Attacks](https://www.youtube.com/watch?v=wSg86al1APQ)
+
+## Week 5
+- [Node.js Overview](https://instructorc.github.io/site/slides/logic/nodejs.html)
