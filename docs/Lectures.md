@@ -23,3 +23,6 @@
 ## Week 5
 - [Node.js Overview](https://instructorc.github.io/site/slides/logic/nodejs.html)
 - [HTTP(S) + TLS](https://instructorc.github.io/uic_course_app/cs484/tls_ssl.html)
+
+## Week 6
+- [Continue Node.js Overview](https://instructorc.github.io/site/slides/logic/nodejs.html)
