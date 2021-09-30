@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Assignment 1
-# Overview
+
 ## Due Sept. 24th prior to 11:59pm.
 
 Assignment 1 is a project proposal and will need to be coded as a basic HTML page using semantic HTML5 tags. The one-page proposal will implement each of the first 2 requirements. Requirement 3 and 4 provide instructions on how you will document, submit and publish your work.
@@ -46,4 +46,12 @@ For Assignment 1, your site should be hosted via GitHub Pages.
 ### GitHub Repository Invitation Link - [https://classroom.github.com/g/koLQf4fs](https://classroom.github.com/g/koLQf4fs) 
 
 
-
+## Rubric
+| Rubric item  | 15 Total Points |Full Credit (3)|Partial Credit (1.5)|No Credit (0) |
+| ------------- | ------------- |------------- |------------- |------------- |
+| Requirement 1 (Page Layout) | 3 Points  | - Proposal address questions and provides indepth understanding of proposed application <br /> - Accessibility implementation of JS script that adjust site functions as intended| - Content presented, but proposal lacks clarity <br /> -JS script found, but not function or further implementation needed  |Requirement not met |
+| Requirement 2 (Responsive Design)  | 3 Points  | - Site is responsive to smaller screen sizes and implements a minimum of 2 media queries <br /> -Site validates with no errors or warnings  | - Further implementation of responsiveness to smaller screen widths is needed. <br /> - Media queries missing or not properly implemented. |Requirement not met |
+| Requirement 3 (Strategy + Documentation)  | 3 Points  | - ReadMe file includes each team members responsibilities - Development Tools identified for project  | - ReadMe file missing responsibilites of or missing dev. tools  |Requirement not met |
+| Requirement 3 cont. (Team Member Contribution)  | 3 Points | - All team members contributed to project and made a minimum of 3 commits.  Workflow strategy defined and explained within ReadMe file.    | - Missing workflow strategy or all team members did not contribute commit to repository  |Requirement not met |
+ Requirement 4 (Submission and publishing)  | 3 Points | - Project uploaded to GradeScope <br />  -Project published to GitHub Pages  | -Missing submission to GradeScope or Missing published site via GitHub pages  |Requirement not met |
+*For those completing the project individually, you only need to provide your workflow strategy and development tools to earn full credit.
