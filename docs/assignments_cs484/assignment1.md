@@ -54,4 +54,4 @@ For Assignment 1, your site should be hosted via GitHub Pages.
 | Requirement 3 (Strategy + Documentation)  | 3 Points  | - ReadMe file includes each team members responsibilities - Development Tools identified for project  | - ReadMe file missing responsibilites of or missing dev. tools  |Requirement not met |
 | Requirement 3 cont. (Team Member Contribution)  | 3 Points | - All team members contributed to project and made a minimum of 3 commits.  Workflow strategy defined and explained within ReadMe file.    | - Missing workflow strategy or all team members did not contribute commit to repository  |Requirement not met |
  Requirement 4 (Submission and publishing)  | 3 Points | - Project uploaded to GradeScope <br />  -Project published to GitHub Pages  | -Missing submission to GradeScope or Missing published site via GitHub pages  |Requirement not met |
-*For those completing the project individually, you only need to provide your workflow strategy and development tools to earn full credit.
+*For those completing the project individually, you only need to provide your workflow strategy and development tools to earn full credit for requirement 3.
