@@ -50,7 +50,7 @@ Your project should be submitted via the GitHub Repository issued to you by the 
 
 You will also need to submit a compressed folder of your project to GradeScope.  Make sure to delete the node_modules folder in your respective directories prior to compressing and submitting to GradeScope.
 
-### GitHub Repository Invitation Link - Forthcoming 
+### GitHub Repository Invitation Link - https://classroom.github.com/a/_WauAZ4r 
 
 
 ## Rubric
