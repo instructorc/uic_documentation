@@ -31,3 +31,6 @@
 ## Week 7
 - [Authentication + Authorization](https://instructorc.github.io/uic_course_app/cs484/auth.html)
 - [Application Testing](https://instructorc.github.io/site/slides/webtools/testing.html)
+
+## Week 8
+- [Application Testing](https://instructorc.github.io/site/slides/webtools/testing.html)
