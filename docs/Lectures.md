@@ -34,3 +34,4 @@
 
 ## Week 8
 - [Application Testing](https://instructorc.github.io/site/slides/webtools/testing.html)
+- [JSON Lecture](https://instructorc.github.io/uic_course_app/pdf/JSON_LECTURE_UIC.pdf)
