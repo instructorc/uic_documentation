@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Assignment 2
 
-## Due Oct. 15th prior to 11:59pm.
+## Due Oct. 22nd prior to 11:59pm.
 
 Assignment 2,3 and 4 will use the same repository. Assignment 2 will consist of implementing Authentication using passport.js and implementing Unit test. The inivitation link to the repository can be found below. The application will need to implement each of the first 4 requirements. Requirement 5 provides instructions on how you will document, submit your application.
 
