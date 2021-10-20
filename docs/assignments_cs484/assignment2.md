@@ -18,7 +18,7 @@ Assignment 2,3 and 4 will use the same repository. Assignment 2 will consist of 
 
 ![Assignment Page Layout](https://instructorc.github.io/uic_course_app/img/mvc_uml_diagram.png)
 
-- Application have routes defined that would allow the user to create an account, sign-up for the site, update user information and delete account.  Although database implementation is not needed for this assignment, your team should demonstrate CRUD functionality by reading and writing user data to some file.  It is permissible to use SQLite for this assignment, but it is not a requirement.  We will cover SQLite and Relational Databases in the coming weeks.
+- Application have routes defined that would allow the user to create an account and sign-in to the account.  Although database implementation is not needed for this assignment, your team should demonstrate CRUD functionality by reading and writing user data to some file.  It is permissible to use SQLite for this assignment, but it is not a requirement.  We will cover SQLite and Relational Databases in the coming weeks.
 
 ## Requirement 2 (View, Presentation Layer Implementation)
 -  At a minimum, your application should have a interface/view for each of the routes defined in Requirement 1.  You should have a interface/view for the homepage route "/".
