@@ -46,7 +46,7 @@ Assignment 2,3 and 4 will use the same repository. Assignment 2 will consist of 
 
 ## Requirement 5 (Submission and Publishing your project):
 
-Your project should be submitted via the GitHub Repository issued to you by the instructor.  You can accept the repository by clicking on the link below.  You will need to submit the assignment by the due date and and time listed above.  It is permissible to continue progress on the assignment after the due date and time listed if and only if a score has not been entered. The repository for your assignment should include all the necessary files for rendering your assignment. 
+Your project should be submitted via the GitHub Repository issued by the instructor.  You can accept the repository by clicking on the link below.  You will need to submit the assignment by the due date and and time listed above.  It is permissible to continue progress on the assignment after the due date and time listed if and only if a score has not been entered. The repository for your assignment should include all the necessary files for rendering your assignment. 
 
 You will also need to submit a compressed folder of your project to GradeScope.  Make sure to delete the node_modules folder in your respective directories prior to compressing and submitting to GradeScope.
 
