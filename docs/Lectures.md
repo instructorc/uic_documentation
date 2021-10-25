@@ -38,3 +38,26 @@
 
 ## Week 9 
 - [Data Modeling and Process](https://instructorc.github.io/uic_course_app/cs484/data.html)
+
+## Week 10
+- [Data Modeling and Process](https://instructorc.github.io/uic_course_app/cs484/data.html)
+- REST API & Http Headers - Forthcoming
+
+## Week 11
+- [Intro. to React](https://instructorc.github.io/site/slides/webdev/react.html)
+
+## Week 12
+- [Intro. to Docker](https://instructorc.github.io/site/slides/webtools/docker.html)
+
+## Week 13
+- [Intro. to Cloud Computing](https://instructorc.github.io/site/slides/webtools/cloudcomputing.html)
+
+## Week 14
+- Web Usability and Performance - Forthcoming
+
+## Week 15 
+- Bug Bounty Programs + OWASP - Forthcoming
+- URL's to team and individual presentations - Forthcoming
+
+## Week 16
+- Final Exam
