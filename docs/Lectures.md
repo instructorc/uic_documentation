@@ -41,7 +41,7 @@
 
 ## Week 10
 - [Data Modeling and Process](https://instructorc.github.io/uic_course_app/cs484/data.html)
-- REST API & Http Headers - Forthcoming
+- [REST API & Http Headers ](https://instructorc.github.io/uic_course_app/cs484/headers.html)
 
 ## Week 11
 - [Intro. to React](https://instructorc.github.io/site/slides/webdev/react.html)
