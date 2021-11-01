@@ -44,6 +44,7 @@
 - [REST API & Http Headers ](https://instructorc.github.io/uic_course_app/cs484/headers.html)
 
 ## Week 11
+- [REST API & Http Headers ](https://instructorc.github.io/uic_course_app/cs484/headers.html)
 - [Intro. to React](https://instructorc.github.io/site/slides/webdev/react.html)
 
 ## Week 12
