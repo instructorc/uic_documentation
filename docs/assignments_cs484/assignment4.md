@@ -39,3 +39,18 @@ For the front-end features, you will work with you team to implement the 3 featu
     -Your readme file should include the mission of the site, team member roles and bio, goals of site,  code snippets of interaction with RESTFul API, tools and resources used and provide a url to your hosted site.  Your README.md file of your repository will be used during the presentation of your project.  No power-point will be needed, all details will be listed in the Readme.
 
 * Signifies required
+
+## Presentation Outline
+ - Explain topic you selected and why.  
+ - What are the main goals/objectives of your site?
+ - Walk through of user authentication and explain security practices implemented.
+ - Using database interface tool, display the various tables and entry of data into tables when entering a user.
+ - What API did you use and demonstrate how the API is used and how the end user can gain meaningful insight from  the aggregated data? 
+ - Please explain areas of difficulty as it related to finishing your application
+ - What areas of your application would you like to enhance or restructure given more time? 
+ - Plans for application once class is over?
+
+ ### Presentation Sign-up link
+ [Google Form Presentation Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdgItHrSNP_ii4BHQL8IWbWySpkJiXjhCKgmkCRc5393-eKfA/viewform?usp=sf_link) *Please submit prior to November 28th 11:59pm.
+
+
