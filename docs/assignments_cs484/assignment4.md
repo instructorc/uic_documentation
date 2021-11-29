@@ -50,6 +50,12 @@ For the front-end features, you will work with you team to implement the 3 featu
  - What areas of your application would you like to enhance or restructure given more time? 
  - Plans for application once class is over?
 
+## Presentation and Evaluation Form
+ **15 out of the 25 Points of your final project will allocated to presentation and peer evaluation**
+ - Presentation (5 Points)
+ - Evaluation Form (10 Points)
+
+
  ### Presentation Sign-up link
  [Google Form Presentation Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdgItHrSNP_ii4BHQL8IWbWySpkJiXjhCKgmkCRc5393-eKfA/viewform?usp=sf_link) *Please submit prior to November 28th 11:59pm.
 
