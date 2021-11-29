@@ -53,4 +53,7 @@ For the front-end features, you will work with you team to implement the 3 featu
  ### Presentation Sign-up link
  [Google Form Presentation Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdgItHrSNP_ii4BHQL8IWbWySpkJiXjhCKgmkCRc5393-eKfA/viewform?usp=sf_link) *Please submit prior to November 28th 11:59pm.
 
+ ### Presentation Order
+ <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-Xd0WgKuAgQH0hnU4E5LROZgFxFgmxyb7BJbVcoMMBr_LIgaUds_t8nnZKaO1xh7KA-7ZMJd-f4sE/pubhtml?gid=1422754690&amp;single=true&amp;widget=true&amp;headers=false" width="400" height="700"></iframe>
+
 

@@ -16,4 +16,4 @@
 
 200pts Total
 
-#### *iClicker points will count as addtional points(extra credit) and will be added to your overall total for the course. One iClicker point equals .10 of 1 point toward your final grade.
+#### *iClicker points will count as addtional points(extra credit) and will be added to your overall total for the course. One iClicker point equals .25 of 1 point toward your final grade.

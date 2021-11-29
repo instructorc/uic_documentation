@@ -51,13 +51,16 @@
 - [Intro. to Docker](https://instructorc.github.io/site/slides/webtools/docker.html)
 
 ## Week 13
+- [Intro. to Docker](https://instructorc.github.io/site/slides/webtools/docker.html)
 - [Intro. to Cloud Computing](https://instructorc.github.io/site/slides/webtools/cloudcomputing.html)
 
 ## Week 14
-- Web Usability and Performance - Forthcoming
+- [Intro. to Docker](https://instructorc.github.io/site/slides/webtools/docker.html)
+- Web Usability and Performance - Potential Topic
 
 ## Week 15 
-- Bug Bounty Programs + OWASP - Forthcoming
+- [Intro. to Cloud Computing](https://instructorc.github.io/site/slides/webtools/cloudcomputing.html)
+- Bug Bounty Programs + OWASP - Potential Topic
 - URL's to team and individual presentations - Forthcoming
 
 ## Week 16
