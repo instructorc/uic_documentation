@@ -54,6 +54,9 @@ For the front-end features, you will work with you team to implement the 3 featu
  **15 out of the 25 Points of your final project will allocated to presentation and peer evaluation**
  - Presentation (5 Points)
  - Evaluation Form (10 Points)
+    - The Team Evaluation Form can be found by clicking [here](https://forms.gle/8nzdbsjazKiwDcRZA) or you can enter below.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbY1HHytrFK48WmzYE79NlAoZxxU6httOKP0tOvDKuguTI-g/viewform?embedded=true" width="640" height="3274" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
  ### Presentation Sign-up link
@@ -61,5 +64,12 @@ For the front-end features, you will work with you team to implement the 3 featu
 
  ### Presentation Order
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-Xd0WgKuAgQH0hnU4E5LROZgFxFgmxyb7BJbVcoMMBr_LIgaUds_t8nnZKaO1xh7KA-7ZMJd-f4sE/pubhtml?gid=1422754690&amp;single=true&amp;widget=true&amp;headers=false" width="400" height="700"></iframe>
+
+ ### Zoom Presentation URL
+Join Zoom Meeting
+https://uic.zoom.us/j/83823378517?pwd=UnZwcVZ2NFR4U0o3MC9kM3VzdEtoQT09
+
+Meeting ID: 838 2337 8517
+Passcode: CF46ztME
 
 
